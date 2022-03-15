@@ -1,3 +1,6 @@
 Brahian Steven Serna Restrepo
 21 años 
 Quiero fortalecer la parte de programacion
+A la carpeta archivo le estamos agregando un archivo de texto
+
+Es importante tener cuidado a las modificacines de un mismo archivo porque esto puede generar un conflicto
