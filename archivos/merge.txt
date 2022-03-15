@@ -1,0 +1,1 @@
+A la carpeta archivo le estamos agregando un archivo de texto
